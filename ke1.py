@@ -1,0 +1,6 @@
+nama = input("nama kamu ")
+alamat = input("tangerang ")
+sekolah = input("sman 10 tangerang ")
+print("nama yang bagus "+nama)
+print("kota yang nyaman"+alamat)
+print("sekolah yang bersih"+sekolah)
